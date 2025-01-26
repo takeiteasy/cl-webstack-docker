@@ -1,6 +1,6 @@
-# cl-webapp
+# cl-webstack-template
 
-Common Lisp webstack template
+Common Lisp webstack template + docker
 
 ## How to use
 
@@ -14,6 +14,14 @@ make start # start container
 make log # see container log
 make clean # delete container
 make veryclean # delete image + container
+```
+
+### Initial setup
+
+```
+make build
+make run
+open http://localhost:2345
 ```
 
 ## Libraries
