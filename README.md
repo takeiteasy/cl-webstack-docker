@@ -35,8 +35,7 @@ open http://localhost:2345
  - [inaimathi/cl-css](https://github.com/inaimathi/cl-css)
  - [rudolph-miller/jonathan](https://github.com/rudolph-miller/jonathan)
  - [vsedach/parenscript](https://gitlab.common-lisp.net/parenscript/parenscript)
- - [TeMPOraL/cl-sqlite](https://github.com/TeMPOraL/cl-sqlite)
- - [fukamachi/sxql](https://github.com/fukamachi/sxql)
+ - [fukamachi/mito](https://github.com/fukamachi/mito)
 
 ## License
 ```
